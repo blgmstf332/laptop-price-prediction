@@ -1,10 +1,7 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-from lazypredict.Supervised import LazyRegressor
-from sklearn.metrics import mean_absolute_error,mean_squared_error,r2_score
-from sklearn.ensemble import GradientBoostingRegressor
-from sklearn.preprocessing import LabelEncoder
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lazypredict
+joblib
